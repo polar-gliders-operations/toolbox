@@ -7,8 +7,8 @@ To contribute:
 - clone the repo e.g.  git clone https://github.com/polar-gliders-operations/toolbox.git
 - creat a branch e.g. git checkout -b your-feature-branch
 - make your edit
-- commit your edit  e.g git commit -m 'feat: describe your change here'
-    *commit syntax guidelines**
+- commit your edit  e.g git commit -m 'feat: describe your change here'  
+    *commit syntax guidelines*
     feat: (new feature)  
     fix: (bug fix)  
     docs: (changes to the documentation)  
