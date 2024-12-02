@@ -28,7 +28,7 @@ jobs:
       run: |
         conda env create -f requirements.yml
 
-        conda run -n pg pytest --maxfail=5 --disable-warnings
+        conda run -n pg pytest -v --maxfail=5 --disable-warnings
 
 
       # conda init
