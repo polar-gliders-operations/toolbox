@@ -1,5 +1,5 @@
 # toolbox
-Repo of useful functions used by the Polar Gliders Research Group 
+Repo of useful functions used by the Polar Gliders Research Group.   
 Created as a tutorial for collaborative git use.  
 
 If you are completely new to using github, follow their tutorial here:   
