@@ -17,7 +17,7 @@ def find_mld(density_array,depth_array,reference_index):
     Index corresponding to reference depth
     Output: Float of MLD and index integer"""
 
-    index=np.array[(np.abs(density_array[:]-density_array[reference_index])>=0.03).argmax()]
+    index=(np.abs(density_array[:]-density_array[reference_index])>=0.03).argmax()
     mld=depth_array[index]
 
     return index, mld
