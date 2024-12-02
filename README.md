@@ -1,6 +1,9 @@
 # toolbox
 Repo of useful functions used by the Polar Gliders Research Group 
 
+If you are completely new to using github, follow their tutorial here:   
+https://docs.github.com/en/get-started/start-your-journey/hello-world  
+
 Created as a tutorial for collaborative git use.
 
 To contribute:
