@@ -6,7 +6,10 @@ import pandas as pd
 import sys
 import os
 
-parent_dir = os.path.dirname('../')
+# parent_dir = os.path.dirname('../')
+# sys.path.append(parent_dir)
+
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../'))
 sys.path.append(parent_dir)
 
 from ocean_tools import grid2d
