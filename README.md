@@ -33,4 +33,7 @@ Then continue with the following:
 
 - push to repo e.g. git push --set-upstream origin your-feature-branch
 - create a pull request
-- request someone to review and merge the changes
+- request someone to review and merge the changes  
+
+**Unit Tests**
+When setting up your unit test follow one of the preexisting formats.  
